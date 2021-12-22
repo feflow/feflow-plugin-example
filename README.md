@@ -5,13 +5,13 @@ This is an official demo for feflow plugin. It's a simple calculator.
 For example, if you install the plugin, you can input command in terminal like this:
 
 ```sh
-feflow add 1 2 3
+fef add 1 2 3
 # output: 6
-feflow minus 1 2 3
+fef minus 1 2 3
 # output: -4
-feflow multiply 2 2 4
+fef multiply 2 2 4
 # output: 16
-feflow divide 2 2 4
+fef divide 2 2 4
 # output: 0.25
 ```
 
